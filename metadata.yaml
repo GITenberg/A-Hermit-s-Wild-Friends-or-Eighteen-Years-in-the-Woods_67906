@@ -1,0 +1,37 @@
+_repo: A-Hermit-s-Wild-Friends-or-Eighteen-Years-in-the-Woods_67906
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Walton, Mason Augustus
+    alias: Walton, Mason A.
+    birthdate: 1838
+    gutenberg_agent_id: '54522'
+    url: http://www.gutenberg.org/2009/agents/54522
+description: ''
+gutenberg_issued: '2022-04-23'
+identifiers:
+  gutenberg: '67906'
+  lccn: 03025738
+language: en
+pgterms:marc904: https://archive.org/details/hermitswildfrien00waltiala
+pgterms:marc905: 20220210120251walton
+pgterms:marc906: '1903'
+pgterms:marc907: US
+production_note: Tom Cosmas compiled from materials made available at The Internet
+  Archive and placed in the Public Domain.
+publication_note: United States :Dana Estes & Company,1903.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Zoology'
+- !lcsh 'Animal behavior'
+- GITenberg
+tableOfContents: Nature versus medicine -- Satan the raccoon -- Wabbles -- Bismarck,
+  the red squirrel -- Changes in hermit-life -- The white-footed mouse -- Three years
+  later -- The crow -- Life in the woods -- Mr. and Mrs. Chewink -- Some of the wild
+  things -- The instinct of the cowbird -- Bee hunting -- Tiny -- The chestnut-sided
+  warbler -- Instinct -- The chickadees -- Triplefoot.
+title: A Hermit's Wild Friends; or, Eighteen Years in the Woods
+url: http://www.gutenberg.org/ebooks/67906
