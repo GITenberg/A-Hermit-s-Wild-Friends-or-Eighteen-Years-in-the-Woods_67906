@@ -1,5 +1,8 @@
 _repo: A-Hermit-s-Wild-Friends-or-Eighteen-Years-in-the-Woods_67906
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67906-h/images/cover.png
 creator:
   author:
     agent_name: Walton, Mason Augustus
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '54522'
     url: http://www.gutenberg.org/2009/agents/54522
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67906#A-Hermit-s-Wild-Friends-or-Eighteen-Years-in-the-Woods
 gutenberg_issued: '2022-04-23'
 identifiers:
   gutenberg: '67906'
